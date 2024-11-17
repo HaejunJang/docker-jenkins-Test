@@ -25,4 +25,5 @@ public class CalculatorTest {
         assertEquals(6, calculator.div(12, 2));
     }
     //변경 추가
+    //변경 2
 }
